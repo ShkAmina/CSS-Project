@@ -38,8 +38,8 @@
 {   
     display: block;
     justify-content: center;
-    width: 300px;
-    height: 300px;
+    width: 210px;
+    height: 250px;
     background-color: #FFFFFF;
     color: #00A5EC;
     padding: 20px;
@@ -92,7 +92,9 @@
     color: #00A5EC;
     font-size: 22px;
 }
-span
+a
 {
-    
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
 }
