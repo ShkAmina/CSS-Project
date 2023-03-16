@@ -10,8 +10,8 @@
     align-items: center;
 }
 #BOX{ 
-    /* width: 300px;
-    height: 180px; */
+    width: 300px;
+    height: 180px;
     padding: 15px;
     border: 1px solid gray;
     border-radius: 10px;
@@ -36,7 +36,7 @@
  
 }
 input#go{
-    margin-left: 10em;
+    margin-left: 16em;
     padding: 5px;
     background-color: #4c9ed9;
     color: #ffffff;
