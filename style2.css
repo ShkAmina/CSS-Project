@@ -74,3 +74,27 @@ input#go:hover{
     size: 100%;
     margin-top: 10px;
 }
+@media screen and (min-device-width: 320px) and (max-device-width: 600px) 
+{
+    #BOX{ 
+        margin-top: 135px;
+        width: 270px;
+        height: 200px;
+        padding: 15px;
+        border: 1px solid gray;
+        border-radius: 10px;
+        color: black;
+        background-color: white;
+        font-weight:  bold;
+        font-size: large;
+        
+    }
+    input#go{
+        margin-left:12em;
+        padding: 5px;
+        background-color: #4c9ed9;
+        color: #ffffff;
+        border: 1px solid #111;
+    
+    }
+}
